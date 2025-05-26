@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Practica CSS-Selectores</title></title>
+  <link rel="stylesheet" href="css/estilo.css">
+  <head>
+    <body >
+        <header>
+            <H1><href="#">Inicio</h1>
+            </nav>
+                 <a href="#">Inicio</a>
+                 <a href="#">Acerca</a>
+                 <a href="#">"https://google.com">Extreno</a>
+        </nav>
+        </header>
+        <section>
+             </div<
+        "https://fonts.googleapis.com/cssfamily=Roboto:wght@300;700&display=swap"rel="stylesheet>
+            <article>
+                <h2>Articulo 1 </h2>
+                <p> Primer parrafo del articulo uno.</p>
+                </article>
+                <article>
+                <h2> Articulo2</h2>
+                <p> segundo parrafo del articulo dos .</p>
+                </article>
+                </section>
+                <footer>
+        </html>
+     body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0px;
+      }
+      /*Selectores por tipo*/
+      h1,h2{
+        color.navy;
+      }
+       /*selectores descendente*/
+       <Section articule p {
+        font-size: 1rem;
+       }
+       /*Pseudo-class*/
+       nav a:hover{
+        background-color:ligthblue;
+       }
+       /*Selector de atributo*/
+       nav a[ href="https://"]{
+        background-color:#9E9E9E:
+       }
+       /*Pseudo-elemento*/
+       articulo p:first-letter{
+
+        color:gold;
+        font-size:1.5rem;
+       }
+      <div class="caja-ejemplo">
+        <div>
+        .caja -ejemplo{
+            width: 300px;
+            padding: 20px;
+            margin:30px;
+            border:2px solid #555;
+            blackground-color:#EEE;
+            box-sizing:border-box;
+           <div class="cajas" >
+            <span class="inline">Caja inline</span>;
+            <div class="block">Caja block</div>;
+            <span class="inlene-block">Caja inline-block</span>;
+    }
+    header {
+      background-color: #333;
+      color: white;
+      padding: 10px 0;
+      text-align: center;
+      <link href= "https://fonts.googleapis.com/cssfamily=Roboto:wght@300;700&display=swap"rel="stylesheet>
+    }
+    main {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      max-width: 800px;
+      margin: 20px auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+
+
+  <header>
+    <h1>Bienvenido a mi página web</h1>
+  </header>
+
+  <main>
+    <p>Esta es una página de ejemplo creada con HTML y CSS.</p>
+    <p>Puedes editar este archivo para agregar más contenido.</p>
+  </main>
+
+</body>
+</html>
